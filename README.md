@@ -1,7 +1,7 @@
 # Hi there, I'm Khaled 👋
 
-💻 I’m a **Full-Stack Developer** passionate about building web applications and embedded systems.  
-🌱 Currently improving my skills in **MERN Stack (MongoDB, Express.js, React, Node.js)** and system integration.  
+💻 I’m a **Full-Stack .NET Developer** passionate about building web applications and embedded systems.  
+🌱 Currently improving my skills in **ASP.NET Core, C#, SQL Server, and system integration**.  
 📚 Also working on **Embedded Systems & IoT projects** with Arduino and ESP32.  
 ⚡ Fun fact: I love creating projects that combine hardware + software.  
 
@@ -9,10 +9,10 @@
 
 ## 🚀 Skills
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap, React  
-- **Backend:** Node.js, Express.js, APIs  
-- **Database:** MongoDB, MySQL  
+- **Backend:** ASP.NET Core, C#, RESTful APIs  
+- **Database:** SQL Server, MySQL  
 - **Embedded:** Arduino, ESP32, Sensors, Motor Drivers  
-- **Tools:** Git, GitHub, VS Code  
+- **Tools:** Git, GitHub, Visual Studio, VS Code  
 
 ---
 
@@ -25,7 +25,7 @@
 ---
 
 ## 🎓 Education & Training
-- **Digital Egypt Pioneers Initiative (DEPI)** – Full-Stack Development Track  
+- **Digital Egypt Pioneers Initiative (DEPI)** – Full-Stack .NET Development Track  
 - **Wusta Delta Electricity Company** – Front-End Development Training  
 
 ---
