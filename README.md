@@ -1,7 +1,7 @@
 # Hi there, I'm Khaled 👋
 
 💻 I’m a **Full-Stack .NET Developer** passionate about building web applications and embedded systems.  
-🌱 Currently improving my skills in **ASP.NET Core, C#, SQL Server, and system integration**.  
+🌱 Currently improving my skills in **ASP.NET Core, C#, MVC, Entity Framework, and System Integration**.  
 📚 Also working on **Embedded Systems & IoT projects** with Arduino and ESP32.  
 ⚡ Fun fact: I love creating projects that combine hardware + software.  
 
@@ -9,7 +9,7 @@
 
 ## 🚀 Skills
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap, React  
-- **Backend:** ASP.NET Core, C#, RESTful APIs  
+- **Backend:** ASP.NET Core, C#, MVC, Entity Framework, RESTful APIs  
 - **Database:** SQL Server, MySQL  
 - **Embedded:** Arduino, ESP32, Sensors, Motor Drivers  
 - **Tools:** Git, GitHub, Visual Studio, VS Code  
@@ -25,8 +25,8 @@
 ---
 
 ## 🎓 Education & Training
-- **Digital Egypt Pioneers Initiative (DEPI)** – Full-Stack .NET Development Track  
-- **Wusta Delta Electricity Company** – Front-End Development Training  
+- **Digital Egypt Pioneers Initiative (DEPI)** – Full-Stack Development Track  
+- **Wusta Delta Electricity Company** – Computer Engineering Training  
 
 ---
 
@@ -48,4 +48,4 @@
 
 ---
 
-⭐️ From [khaled-code-a11y](https://github.com/khaled-code-a11y)
+⭐️ From [khaled-code-a11y](https://github.com/khaled-code-a11y)  
